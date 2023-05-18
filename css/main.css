@@ -135,18 +135,22 @@ footer {
     background: #3B5998;
     color: white;
     padding: 20px 25px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
    .fa-twitter {
     background: #55ACEE;
     color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
    .fa-youtube {
     background: #bb0000;
     color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
    .fa-instagram {
     background: #125688;
     color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   }
    .fa-snapchat-ghost {
     background: #fffc00;
